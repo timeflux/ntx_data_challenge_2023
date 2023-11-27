@@ -22,3 +22,4 @@ In the following section we describe how notebooks are structured
                     - Task to achieve
                     - Submission guidelines
                     - scoring criteria
+    link_to_the_notebook:- https://colab.research.google.com/drive/1w3RE0EOevDyWw3F4b2gpsjHYdU0zSJok?usp=sharing
